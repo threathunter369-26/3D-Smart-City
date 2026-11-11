@@ -1,0 +1,6 @@
+{
+  "name": "Tokyo Smart City 3D Digital Twin",
+  "description": "Interactive real-time 3D isometric smart city visualization with live IoT analytics, traffic, energy, environment telemetry, and architectural landmark exploration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
